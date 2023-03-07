@@ -1,0 +1,23 @@
+#sign_up{
+    margin-top: 150px;
+    color: rgb(7, 29, 13);
+    background:"grey";
+    height: 200px;
+    text-align: right;
+    font-weight: bolder;
+    font-size:40px; 
+    
+    
+}
+#signin{
+    
+    text-align: center;
+    margin-bottom: 100px;
+    
+    color: rgb(11, 34, 6);
+    text-align: left;
+    margin-left: 5px;
+    font-weight: bolder;
+    font-size:40px;
+    height: 70px;
+}
